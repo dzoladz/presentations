@@ -1,0 +1,22 @@
+{
+  "name": "5-books-2025",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "eject": "slidev theme eject"
+  },
+  "dependencies": {
+    "@fontsource/open-sans": "^5.2.7",
+    "@iconify-json/bi": "^1.2.6",
+    "@iconify-json/logos": "^1.2.10",
+    "@slidev/cli": "^52.6.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "chart.js": "^4.5.1",
+    "vue": "^3.5.22",
+    "vue-chartjs": "^5.3.3"
+  }
+}

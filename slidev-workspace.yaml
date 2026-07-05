@@ -1,0 +1,9 @@
+baseUrl: /presentations
+
+hero:
+  title: Derek C. Zoladz
+  description: Collected presentations
+
+sidebar:
+  title: "Guide"
+  githubUrl: "https://github.com/dzoladz/presentations"
